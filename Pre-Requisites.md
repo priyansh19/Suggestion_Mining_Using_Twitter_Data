@@ -12,3 +12,5 @@ Matplotlib // Library for ploting graphs.
 
 # Create a Twitter Application to connect through API :
 
+Here is the Link from wher i took help in creating the web API of Twitter for text analysis..
+[Link](http://socialmedia-class.org/twittertutorial.html)
