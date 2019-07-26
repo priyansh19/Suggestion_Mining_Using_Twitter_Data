@@ -14,3 +14,7 @@ Matplotlib // Library for ploting graphs.
 
 Here is the Link from wher i took help in creating the web API of Twitter for text analysis..
 [Link](http://socialmedia-class.org/twittertutorial.html)
+
+After creating the Application to connect with :
+
+you will have 4 secret access keys. Enter them in the keys section of the code to run your program.
