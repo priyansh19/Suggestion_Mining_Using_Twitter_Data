@@ -16,3 +16,7 @@ This is very basic implementation of Twitter analysis on any string of words als
 
 ## Contribution ..
 Yes, We do accept Contrbutions. Read [Contributions.md](https://github.com/priyansh19/Twitter_data_sentimental_analysis/blob/master/Contributions.md)
+
+## Steps for creating Twitter Api:
+
+https://drive.google.com/file/d/1V3iLbH5n-F_i4xGS9WWBKWJMWs1q1PmM/view?usp=sharing
