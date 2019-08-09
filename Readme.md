@@ -15,4 +15,4 @@ python shell :
 This is very basic implementation of Twitter analysis on any string of words also with a low level implementation of tkinter library in python for building its gui part
 
 ## Contribution ..
-Yes, We do accept Contrbutions but, Read this first [Contributions.md](https://github.com/priyansh19/Twitter_data_sentimental_analysis/blob/master/Contributions.md)
+Yes, We do accept Contrbutions. Read [Contributions.md](https://github.com/priyansh19/Twitter_data_sentimental_analysis/blob/master/Contributions.md)
