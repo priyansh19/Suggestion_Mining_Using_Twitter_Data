@@ -21,4 +21,5 @@ Yes, We do accept Contrbutions. Read [Contributions.md](https://github.com/priya
 
 https://drive.google.com/file/d/1V3iLbH5n-F_i4xGS9WWBKWJMWs1q1PmM/view?usp=sharing
 
-## Challenge : if you are reading this file try to combine all the three windows into a single window to display the general results also try to open image in the same section of the window to display the graph(pie chart).😉
+## Challenge: 
+if you are reading this file try to combine all the three windows into a single window to display the general results also try to open image in the same section of the window to display the graph(pie chart).😉
