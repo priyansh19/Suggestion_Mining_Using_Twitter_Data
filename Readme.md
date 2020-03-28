@@ -14,6 +14,10 @@ python shell :
 
 This is very basic implementation of Twitter analysis on any string of words also with a low level implementation of tkinter library in python for building its gui part
 
+## Steps for creating Twitter Api:
+
+https://drive.google.com/file/d/1V3iLbH5n-F_i4xGS9WWBKWJMWs1q1PmM/view?usp=sharing
+
 ## Installation
 
 Download or Clone the repo, Navigate to the directory containing the files and run
@@ -36,9 +40,9 @@ Follow these steps :
 - Push to the branch: git push origin my-new-feature
 - Submit a pull request
 
-## Steps for creating Twitter Api:
-
-https://drive.google.com/file/d/1V3iLbH5n-F_i4xGS9WWBKWJMWs1q1PmM/view?usp=sharing
-
 ## :bulb: Challenge: 
 if you are reading this file try to combine all the three windows into a single window to display the general results also try to open image in the same section of the window to display the graph(pie chart).😉
+
+## Author:
+
+Priyansh Gupta
