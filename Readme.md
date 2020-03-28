@@ -14,8 +14,27 @@ python shell :
 
 This is very basic implementation of Twitter analysis on any string of words also with a low level implementation of tkinter library in python for building its gui part
 
+## Installation
+
+Download or Clone the repo, Navigate to the directory containing the files and run
+```
+python setup.py install
+```
+or if you have different versions of python installed then
+``` 
+python3 setup.py install 
+```
+to install the dependencies.
+
 ## :bulb: How to Contribute..
-Yes, We do accept Contrbutions. Read [Contributions.md](https://github.com/priyansh19/Twitter_data_sentimental_analysis/blob/master/Contributions.md)
+Yes, We do accept Contrbutions. 
+
+Follow these steps :
+- Fork it
+- Create your feature branch: git checkout -b my-new-feature
+- Commit your changes: git commit -am 'Add some feature'
+- Push to the branch: git push origin my-new-feature
+- Submit a pull request
 
 ## Steps for creating Twitter Api:
 
