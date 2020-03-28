@@ -17,4 +17,4 @@ Here is the Link from wher i took help in creating the web API of Twitter for te
 
 After creating the Application to connect with :
 
-you will have 4 secret access keys. Enter them in the keys section of the code to run your program.
+Now you have 4 secret access keys copy paste them in the keys section of the code.py file to run your program.
