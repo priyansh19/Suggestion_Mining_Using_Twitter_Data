@@ -18,7 +18,7 @@ setup(
     url='https://github.com/priyansh19/Suggestion_Mining_Using_Twitter_Data',
 
 
-    authors = ' Priyansh Gupta, Prakhar Agarwal, Shraddha Saini ',
+    authors = ' Priyansh Gupta ',
     author_email='guptapriyansh1907@gmail.com',
     classifiers=[
 
